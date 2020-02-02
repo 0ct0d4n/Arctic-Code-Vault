@@ -1,7 +1,7 @@
 # Arctic-Code-Vault
 Arctic Code Vault Repo  - Hello World and a Message for future generations
 
-#### MARISOL CORNEJO & DANIEL VERA
+#### MARISOL CORNEJO <3 & DANIEL VERA
 
 Today is a palindrome number: 02022020
 
